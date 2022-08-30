@@ -9,12 +9,16 @@ tools: [PostgreSQL, Sequelize, Node, React, Redux, Tailwind, Styled-Components]
 }
 ```
 
-Connect with me:
--[linkedIn](www.linkedin.com/in/angie-va-moreno)
--[Instagram](https://instagram.com/anvamopa?igshid=YmMyMTA2M2Y=)
--[WhatsApp](wa-me/573106429270)
+### My projects:
+- [MusiCommerce](https://musicommerce2022.vercel.app/) 🎼🎷
+- [CountriesApp](https://countriespi2022.vercel.app/) 🌎
 
-My projects:
+### Connect with me:
+- [LinkedIn](www.linkedin.com/in/angie-va-moreno) 
+- [Instagram](https://instagram.com/anvamopa?igshid=YmMyMTA2M2Y=)
+- [WhatsApp](wa-me/573106429270)
+
+
 
 
 
