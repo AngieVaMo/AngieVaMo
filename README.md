@@ -1,12 +1,14 @@
-### Hello👋, world
+### Hello👋, world!
 
 ![me](https://user-images.githubusercontent.com/98479358/187535859-6aebe0d7-d944-4aef-9226-0fe4957c3d02.png)
 
 ```js
+
 const angieVaMo = {
 code: [Javascript, HTML, CSS],
 tools: [PostgreSQL, Sequelize, Node, React, Redux, Tailwind, Styled-Components]
 }
+
 ```
 
 ### My projects:
