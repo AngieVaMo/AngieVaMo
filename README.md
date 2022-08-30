@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hello👋, world
+
+![me](https://user-images.githubusercontent.com/98479358/187535859-6aebe0d7-d944-4aef-9226-0fe4957c3d02.png)
+
+```js
+const angieVaMo = {
+code: [Javascript, HTML, CSS],
+tools: [PostgreSQL, Sequelize, Node, React, Redux, Tailwind, Styled-Components]
+}
+```
+
+Connect with me:
+-[linkedIn](www.linkedin.com/in/angie-va-moreno)
+-[Instagram](https://instagram.com/anvamopa?igshid=YmMyMTA2M2Y=)
+-[WhatsApp](wa-me/573106429270)
+
+My projects:
+
+
 
 <!--
 **AngieVaMo/AngieVaMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
