@@ -2,6 +2,14 @@
 
 ![me](https://user-images.githubusercontent.com/98479358/187535859-6aebe0d7-d944-4aef-9226-0fe4957c3d02.png)
 
+I am a chemical engineer and full stack web developer, interested in entering the IT world.
+
+I decided to study programming because it seems to me a world full of opportunities that harmonizes and complements very well with my previous knowledge in engineering and the lifestyle that I want.
+
+During the more than 700 hours of study at Henry's bootcamp I was able to not only fall in love with programming but also develop 2 representative projects that bring together all the knowledge and technologies learned, as well as many soft skills during my experience as a Teaching Assistant.
+
+As a chemical engineer I have worked in the area of teaching and scientific research for more than 3 years, which has helped me develop skills such as: leadership, discipline, results orientation, efficiency, ability to follow instructions and workflows, as well as socialization, empathy, active listening, responsibility.
+
 ```js
 
 const angieVaMo = {
