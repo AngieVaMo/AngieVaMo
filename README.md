@@ -16,6 +16,7 @@ tools: [PostgreSQL, Sequelize, Node, React, Redux, Tailwind, Styled-Components]
 - [CountriesApp](https://countriespi2022.vercel.app/) 🌎
 
 ### Connect with me:
+- [E-mail](anvamopa2@gmail.com)
 - [LinkedIn](www.linkedin.com/in/angie-va-moreno) 
 - [Instagram](https://instagram.com/anvamopa?igshid=YmMyMTA2M2Y=)
 - [WhatsApp](wa-me/573106429270)
