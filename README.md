@@ -25,7 +25,8 @@ tools: [PostgreSQL, Sequelize, Node, React, Redux, Tailwind, Styled-Components]
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 
@@ -37,7 +38,7 @@ tools: [PostgreSQL, Sequelize, Node, React, Redux, Tailwind, Styled-Components]
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/angie-va-moreno/) 
 - [Instagram](https://instagram.com/anvamopa?igshid=YmMyMTA2M2Y=)
-- [WhatsApp](https://wa-me/573106429270)
+- [WhatsApp](https://wa.me/573106429270)
 
 
 <!--
