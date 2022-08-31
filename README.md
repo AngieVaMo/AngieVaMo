@@ -28,18 +28,16 @@ tools: [PostgreSQL, Sequelize, Node, React, Redux, Tailwind, Styled-Components]
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
+
 ### My projects:
 - [MusiCommerce](https://musicommerce2022.vercel.app/) 🎼🎷
 - [CountriesApp](https://countriespi2022.vercel.app/) 🌎
 
+
 ### Connect with me:
-- [E-mail](anvamopa2@gmail.com)
-- [LinkedIn](www.linkedin.com/in/angie-va-moreno) 
+- [LinkedIn](https://www.linkedin.com/in/angie-va-moreno/) 
 - [Instagram](https://instagram.com/anvamopa?igshid=YmMyMTA2M2Y=)
-- [WhatsApp](wa-me/573106429270)
-
-
-
+- [WhatsApp](https://wa-me/573106429270)
 
 
 <!--
